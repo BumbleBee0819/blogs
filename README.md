@@ -1,4 +1,4 @@
-# My Blogs
+# My Learning Blogs
 > Author: Wenyan Bi
 
 > 2020-08-24 
