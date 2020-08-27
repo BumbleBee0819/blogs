@@ -1,4 +1,4 @@
-# My working blogs on Manjaro i-3 linux
+# Linux system
 
 > 2020-08-24 
 1. [CUDA on Manjaro linux](https://github.com/BumbleBee0819/blogs/issues/1)
