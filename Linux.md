@@ -5,7 +5,7 @@
 - [Install & initial configuration of Manjaro i-3](https://github.com/BumbleBee0819/Development-blogs-on-manjaro-i-3/issues/5):
     - Install from USB
     - Initial configuration: 1) natural rolling; 2) colored terminal; 3) change voice and brightness; 4) install chinese language
-    - External drives
+    - External drivers
 - [Install necessary packages](https://github.com/BumbleBee0819/Development-blogs-on-manjaro-i-3/issues/6):
 - [Pacman/Yay](https://github.com/BumbleBee0819/blogs/issues/2):
 - [Nvidia Optimus & External display](https://github.com/BumbleBee0819/blogs/issues/3):
