@@ -1,7 +1,7 @@
 # Linux system
 
 - [Install manjaro i3 from USB](https://github.com/BumbleBee0819/Development-blogs-on-manjaro-i-3/issues/5)
-- [Pacman/yay](https://github.com/BumbleBee0819/blogs/issues/2)
+- [Pacman/Yay](https://github.com/BumbleBee0819/blogs/issues/2)
 - [Nvidia Optimus & External display](https://github.com/BumbleBee0819/blogs/issues/3)
     - set linux system with 2 chip cards
     - bumblebee
