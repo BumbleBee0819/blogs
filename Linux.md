@@ -4,6 +4,10 @@
     - Failed to start: light display manger
     - `clear` doesn't work: 'rxvt-unicode-256color': unknown terminal type
     - anaconda arrow keys don't work; `clear` doesn't work after installing annaconda
+- [Manjaro & linux basics](https://github.com/BumbleBee0819/Development-blogs-on-manjaro-i-3/issues/8)
+    - zmenu
+    - dmenu
+    - ~/.bashrc & ~/.bash_profile
     
 - [Install & initial configuration of Manjaro i-3](https://github.com/BumbleBee0819/Development-blogs-on-manjaro-i-3/issues/5):
     - Install from USB
