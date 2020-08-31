@@ -11,8 +11,9 @@
 - [Install necessary packages](https://github.com/BumbleBee0819/Development-blogs-on-manjaro-i-3/issues/6):
 - [Pacman/Yay](https://github.com/BumbleBee0819/blogs/issues/2):
 - [Nvidia Optimus & External display](https://github.com/BumbleBee0819/blogs/issues/3):
-    - set linux system with 2 chip cards
-    - bumblebee
+    - Install Nvidia driver
+    - External monitor
+    - Setup External display with Bumblebee
 - [CUDA on Manjaro linux](https://github.com/BumbleBee0819/blogs/issues/1):
     - Error: CUDA driver is insufficient for CUDA runtime version.
     - Failed to activate CUDA within singularity container.
