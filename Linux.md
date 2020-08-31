@@ -9,7 +9,7 @@
     - Initial configuration: 1) natural rolling; 2) colored terminal; 3) change voice and brightness; 4) install chinese language
     - External disk
 - [Nvidia Optimus & External display](https://github.com/BumbleBee0819/blogs/issues/3):
-    - Install Nvidia driver
+    - Install Nvidia driver (Also in [Kernal & Driver](https://github.com/BumbleBee0819/Development-blogs-on-manjaro-i-3/issues/4))
     - External monitor
     - Setup External display with Bumblebee
 - [Install necessary packages](https://github.com/BumbleBee0819/Development-blogs-on-manjaro-i-3/issues/6):
