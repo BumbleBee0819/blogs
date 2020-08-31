@@ -16,6 +16,7 @@
     - Predefined installation configures
     - Program list
 - [Pacman/Yay](https://github.com/BumbleBee0819/blogs/issues/2):
+
 - [CUDA on Manjaro linux](https://github.com/BumbleBee0819/blogs/issues/1):
     - Error: CUDA driver is insufficient for CUDA runtime version.
     - Failed to activate CUDA within singularity container.
@@ -25,4 +26,7 @@
     - List available kernels & install/uninstall
     - Current NVIDIA driver version
     - List all hardware info
-
+- [Disk management](https://github.com/BumbleBee0819/Development-blogs-on-manjaro-i-3/issues/9)
+    - Disk management: Check disk usage
+    - External disk
+    - Clean system
