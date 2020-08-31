@@ -8,6 +8,7 @@
     - zmenu
     - dmenu
     - ~/.bashrc & ~/.bash_profile
+    - System structure
     
 - [Install & initial configuration of Manjaro i-3](https://github.com/BumbleBee0819/Development-blogs-on-manjaro-i-3/issues/5):
     - Install from USB
