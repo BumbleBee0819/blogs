@@ -1,10 +1,10 @@
 # Linux system
 
-- [Common Errors](https://github.com/BumbleBee0819/Development-blogs-on-manjaro-i-3/issues/7):
+- [Common Errors](https://github.com/BumbleBee0819/Development-blogs-on-manjaro-i-3/issues/5):
     - Failed to start: light display manger
     - `clear` doesn't work: 'rxvt-unicode-256color': unknown terminal type
     - anaconda arrow keys don't work; `clear` doesn't work after installing annaconda
-- [Manjaro & linux basics](https://github.com/BumbleBee0819/Development-blogs-on-manjaro-i-3/issues/8)
+- [Manjaro & linux basics](https://github.com/BumbleBee0819/Development-blogs-on-manjaro-i-3/issues/5)
     - zmenu
     - dmenu
     - ~/.bashrc & ~/.bash_profile
@@ -19,7 +19,7 @@
     - External monitor
     - Setup External display with Bumblebee
     
-- [Install necessary packages](https://github.com/BumbleBee0819/Development-blogs-on-manjaro-i-3/issues/6):
+- [Install necessary packages](https://github.com/BumbleBee0819/Development-blogs-on-manjaro-i-3/issues/5):
     - Predefined installation configures
     - Program list
     
